@@ -17,7 +17,7 @@ app.on('ready', async () => {
         }
     })
 
-    mainWindow.loadURL('https://the-sunshining.github.io/SunBible/Prophets/Prophets.html')
+    mainWindow.loadURL('https://the-sunshining.github.io/SunBible/Prophets/pro-app-iframe.html')
     mainWindow.removeMenu()
 
 
