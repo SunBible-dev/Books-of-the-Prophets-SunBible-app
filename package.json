@@ -4,7 +4,7 @@
     "productName": "Books of the Prophets SunBible app"
   },
   "name": "books-of-the-prophets-sunbible-app",
-  "version": "0.0.1-beta-test-2",
+  "version": "0.0.1-beta",
   "description": "The Books of the Prophets - a SunBible desktop app made with electron.",
   "main": "main.js",
   "homepage": "https://the-sunshining.github.io/SunBible/Prophets/Prophets.html",
